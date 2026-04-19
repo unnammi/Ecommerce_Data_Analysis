@@ -47,8 +47,10 @@ The dataset contains transactional records with the following columns:
 ## 📊 Power BI Dashboards
 To complement the Python analysis, interactive dashboards were created in **Power BI Desktop**:
 - **Revenue Overview** – Annual revenue breakdown by category  
-- **Top Products Drill‑down** – Top 10 products by revenue, with drill‑down into payment methods  
-
+- **Top Products Drill‑down** – Top 10 products by revenue, with drill‑down into payment methods
+- **Payment by Status** – Revenue grouped by order status and payment method
+- **Gain/Loss Analysis** – Delivered orders (gain), cancelled/returned (loss), and in‑progress revenue
+- **Outlier Detection** – Identification of anomalies using quartile measures.
 
 ### 🔎 Features
 - Multi‑page report structure for clarity (overview, product drill‑down, payment analysis)  
