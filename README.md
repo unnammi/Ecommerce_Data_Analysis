@@ -42,7 +42,21 @@ The dataset contains transactional records with the following columns:
 - Bar charts for product categories  
 - Line plots for revenue trends  
 - Box plot for finding out outliers
-- Pie charts for visualizing category and Revenue distribution 
+- Pie charts for visualizing category and Revenue distribution
+
+## 📊 Power BI Dashboards
+To complement the Python analysis, interactive dashboards were created in **Power BI Desktop**:
+- **Revenue Overview** – Annual revenue breakdown by category  
+- **Top Products Drill‑down** – Top 10 products by revenue, with drill‑down into payment methods  
 
 
+### 🔎 Features
+- Multi‑page report structure for clarity (overview, product drill‑down, payment analysis)  
+- Drill‑down functionality (e.g., click on a product bar to see payment method split)  
+- Interactive slicers for filtering by category, year, or payment type 
+
+### 📂 How to View
+- Download the `.pbix` file from this repository and open in **Power BI Desktop**  
+- Or view exported **screenshots/PDFs** included in the `images/` folder  
+- README provides a narrative of each page for quick understanding
 
